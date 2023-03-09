@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-open StarWarsIV.avi
+telnet towel.blinkenlights.nl
